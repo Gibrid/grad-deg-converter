@@ -1,0 +1,2 @@
+This little script can convert angles from (degree, minute, second) to decimal and back.
+Written in Python 2.6.4 with PyQt4 4.6.1
