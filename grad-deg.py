@@ -72,7 +72,7 @@ class MyWindow(QWidget):
 
     def run_command(self):
         """
-        Вывод результатов в TextBrowser
+        пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ TextBrowser
         """
         import string
 
